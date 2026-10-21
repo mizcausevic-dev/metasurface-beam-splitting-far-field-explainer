@@ -11,56 +11,56 @@
       "glyph": "plate",
       "label": "Input",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.24
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "optic",
       "label": "Aperture",
       "role": "path",
-      "x": 0.5,
-      "y": 0.24
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "phase",
       "label": "Designed spatial phase response",
       "role": "sense",
-      "x": 0.78,
-      "y": 0.24
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Propagate field in a labeled schematic",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.52
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "optic",
       "label": "Desired lobes",
       "role": "path",
-      "x": 0.5,
-      "y": 0.52
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "plate",
       "label": "Leakage",
       "role": "structure",
-      "x": 0.78,
-      "y": 0.52
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "polarizer",
       "label": "Polarization inputs",
       "role": "path",
-      "x": 0.22,
-      "y": 0.8
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
