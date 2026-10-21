@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/metasurface-beam-splitting-far-field-explainer/
 
+Repository: https://github.com/mizcausevic-dev/metasurface-beam-splitting-far-field-explainer
+
 ## What this is
 
 An interactive anatomy plate for Metasurface Beam-Splitting Far Field. Play, scrub, or jump the five stages. The same frame always draws the same picture.
